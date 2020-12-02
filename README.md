@@ -8,3 +8,5 @@ Krzysztof Fiok1, Waldemar Karwowski1, Edgar Gutierrez1,2,*, Tameika Liciaga1, Al
 <br>*	Correspondence: edgar.gutierrezfranco@ucf.edu; Tel.: +1-515-441-5519
 
 The article is now in peer review, if you wish to use our code or data please contant us regarding citation information.
+
+The code is written in python3. If you wish to repeat our experiments please clone our repository and run the provided bash scripts.
